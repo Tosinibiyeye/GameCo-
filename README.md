@@ -1,4 +1,10 @@
 # GameCo-
+
+
+                        <img src="img/Final Project Presentation.jpg" class="img-fluid rounded zoomable" alt="Portfolio Image 2">
+                    </a>
+
+
  GameCo intends to develop new games in order to remain competitive in the market. They are looking for market, competitor, and sales insights to make the best use of their resources
 GameCo, a new video game company, wants to use data to inform the development of new games.
 # Goal:
