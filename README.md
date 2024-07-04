@@ -1,6 +1,6 @@
 # GameCo-
 
-
+ <div class="col-md-4 mb-4">
                         <img src="img/Final Project Presentation.jpg" class="img-fluid rounded zoomable" alt="Portfolio Image 2">
                     </a>
 
